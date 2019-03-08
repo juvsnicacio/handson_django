@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f115ec5b-1a9b-482b-b750-7dda64abb5af" name="Default Changelist" comment="" />
+    <list default="true" id="f115ec5b-1a9b-482b-b750-7dda64abb5af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../apps/aula01/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../apps/aula01/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apps/aula01/geo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../apps/aula01/geo/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy" beforeDir="false" afterPath="$PROJECT_DIR$/deploy" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,53 +17,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deploy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1054">
-              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+            <state>
+              <caret line="4" selection-start-line="4" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restart">
+        <entry file="file://$PROJECT_DIR$/../apps/aula01/geo/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="120">
+              <caret line="5" column="7" selection-start-line="5" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../apps/aula01/manage.sh">
+        <entry file="file://$PROJECT_DIR$/../apps/aula01/geo/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" selection-start-column="26" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../conf/.aulas.env">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            <state relative-caret-position="336">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,12 +115,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../django_brfied" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../apps/ege_dashboard/settings.py" />
         <option value="$PROJECT_DIR$/../apps/ege_perfil/requirements-app.txt" />
         <option value="$PROJECT_DIR$/../libs/ege_utils/MANIFEST.in" />
         <option value="$PROJECT_DIR$/../libs/ege_utils/release.sh" />
@@ -184,13 +163,14 @@
         <option value="$PROJECT_DIR$/../apps/ege_baggins/requirements-app.sample.txt" />
         <option value="$PROJECT_DIR$/../libs/django_brfied/django_brfied/management/commands/importar_uf_municipio.py" />
         <option value="$PROJECT_DIR$/../dockers/ege_base/requirements-build.txt" />
-        <option value="$PROJECT_DIR$/deploy" />
         <option value="$PROJECT_DIR$/restart" />
         <option value="$PROJECT_DIR$/../apps/ege_acesso/settings.py" />
         <option value="$PROJECT_DIR$/../apps/ege_acesso/ege_acesso/urls.py" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/../conf/.aulas.env" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/deploy" />
+        <option value="$PROJECT_DIR$/../apps/aula01/geo/admin.py" />
       </list>
     </option>
   </component>
@@ -217,7 +197,16 @@
             </path>
             <path>
               <item name="bin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aula01" type="462c0819:PsiDirectoryNode" />
+              <item name="geo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bin" type="b2602c69:ProjectViewProjectNode" />
               <item name="aula02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bin" type="b2602c69:ProjectViewProjectNode" />
@@ -239,19 +228,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../apps/aula01" />
+      <recent name="$PROJECT_DIR$/../apps/ege_bolsitas_antigo" />
+      <recent name="$PROJECT_DIR$/../../django_brfied" />
+      <recent name="$PROJECT_DIR$/../conf/examples" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../conf/tmp" />
       <recent name="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato" />
       <recent name="$PROJECT_DIR$/../apps/ege_bolsitas_antigo" />
       <recent name="$PROJECT_DIR$/../libs/ege_utils/ege_utils" />
       <recent name="$PROJECT_DIR$/seletivo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../apps/ege_bolsitas_antigo" />
-      <recent name="$PROJECT_DIR$/../../django_brfied" />
-      <recent name="$PROJECT_DIR$/../conf/examples" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/../apps/ege_acesso" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -298,7 +287,7 @@
       <workItem from="1551283238920" duration="276000" />
       <workItem from="1551288713372" duration="22000" />
       <workItem from="1551288775998" duration="13109000" />
-      <workItem from="1552068892433" duration="1933000" />
+      <workItem from="1552068892433" duration="4150000" />
     </task>
     <task id="LOCAL-00030" summary="[UPG] ege_theme &amp; ege_auth_jwt [FIX] ege_theme &amp; ege_auth_jwt import">
       <created>1547143752793</created>
@@ -647,7 +636,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150569000" />
+    <option name="totallyTimeSpent" value="152786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -780,9 +769,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/financeiro/models.py" />
-    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/tipo/migrations/0001_initial.py" />
-    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/tipo/migrations/0002_auto_20180117_1936.py" />
     <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/financeiro/migrations/0001_initial.py" />
     <entry file="file://$PROJECT_DIR$/../libs/django_brfied/django_brfied/migrations/0001_initial.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-1518593251/1170049292/python_brfied/choices.py">
@@ -837,16 +823,9 @@
     <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/urls.py" />
     <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/ege_acesso/urls.py" />
     <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/settings.py" />
-    <entry file="file://$PROJECT_DIR$/deploy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/restart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state>
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
@@ -861,21 +840,52 @@
     <entry file="file://$PROJECT_DIR$/../conf/.aulas.env">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="-7">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../apps/aula01/manage.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" selection-start-line="4" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-1518593251/1170049292/django/contrib/admin/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../apps/aula01/geo/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="7" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../apps/aula01/geo/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

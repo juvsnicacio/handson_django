@@ -19,45 +19,44 @@ echo ""
 echo_info "Parar o mundo"
 ./down
 
-echo ""
-echo_info "Construir o mundo"
-./build
-
-echo ""
-echo_info "Subir o banco"
-./db/up
+#echo ""
+#echo_info "Construir o mundo"
+#./build
+#
+#echo ""
+#echo_info "Subir o banco"
+#./db/up
 
 echo ""
 echo_info "Migrar os bancos..."
 
 echo ""
 echo_info "... acesso"
-./acesso/migrate
+./aula01/migrate
 
-echo ""
-echo_info "... baggins"
-./baggins/migrate
-
-echo ""
-echo_info "... perfil"
-./perfil/migrate
-
-echo ""
-echo_info "... seletivo"
-./seletivo/migrate
-
-echo ""
-echo_info "... selecao"
-./selecao/migrate
-
-
-echo ""
-echo_info "... integrador_ui"
-./integrador_ui/migrate
-
-echo ""
-echo_info "Iniciando o ambiente de desenvolvimento"
-./acesso/run ./manage.sh init_dev
+#echo ""
+#echo_info "... baggins"
+#./baggins/migrate
+#
+#echo ""
+#echo_info "... perfil"
+#./perfil/migrate
+#
+#echo ""
+#echo_info "... seletivo"
+#./seletivo/migrate
+#
+#echo ""
+#echo_info "... selecao"
+#./selecao/migrate
+#
+#echo ""
+#echo_info "... integrador_ui"
+#./integrador_ui/migrate
+#
+#echo ""
+#echo_info "Iniciando o ambiente de desenvolvimento"
+#./acesso/run ./manage.sh init_dev
 
 echo ""
 echo_info "Reiniciando o mundo novamente"
