@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f115ec5b-1a9b-482b-b750-7dda64abb5af" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../apps/aula01/manage.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../conf/.aulas.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1.5.3</find>
+      <find>ege_auth_jwt</find>
+      <find>MY_APPS</find>
+      <find>member</find>
+      <find>sett</find>
+      <find>1.5.4</find>
+      <find>BASE_DIR</find>
+      <find>suit</find>
+      <find>range</find>
+      <find>DateRangeFilter</find>
+      <find>validate_dv_by_mask</find>
+      <find>django_brfied</find>
+      <find>forms</find>
+      <find>django_brfied.django_brfied.</find>
+      <find>Regiao</find>
+      <find>SexoChoices</find>
+      <find>UnidadeFederativa</find>
+      <find>UF_LI</find>
+      <find>django_brfied.django_brfied</find>
+      <find>ZonaChoices</find>
+      <find>Unidade</find>
+      <find>UF</find>
+      <find>perfil</find>
+      <find>ege</find>
+      <find>jwt</find>
+      <find>client_id</find>
+      <find>EnderecoMixin</find>
+      <find>postgres</find>
+      <find>1.5.5</find>
+      <find>acesso_errado</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>=</replace>
+      <replace>&quot;:</replace>
+      <replace>':</replace>
+      <replace>selecao</replace>
+      <replace>s</replace>
+      <replace>examples/</replace>
+      <replace>theme</replace>
+      <replace>1.5.0</replace>
+      <replace>ege_utils</replace>
+      <replace>EGE_UTILS_AUTH_JWT</replace>
+      <replace>1.5.4</replace>
+      <replace>1.5.5</replace>
+      <replace>django_brfied.</replace>
+      <replace>bolsistas</replace>
+      <replace>ege_user</replace>
+      <replace>1.5.6</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../apps/ege_processo_seletivo_administrativo</dir>
+      <dir>$PROJECT_DIR$/../apps/ege_django_auth_jwt</dir>
+      <dir>$PROJECT_DIR$/../apps/ege_seletivo</dir>
+      <dir>$PROJECT_DIR$/../apps/ege_utils</dir>
+      <dir>$PROJECT_DIR$/../apps/ege_bolsitas_antigo</dir>
+      <dir>$PROJECT_DIR$/../apps/ege_acesso</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../django_brfied" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../apps/ege_dashboard/settings.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_perfil/requirements-app.txt" />
+        <option value="$PROJECT_DIR$/../libs/ege_utils/MANIFEST.in" />
+        <option value="$PROJECT_DIR$/../libs/ege_utils/release.sh" />
+        <option value="$PROJECT_DIR$/../libs/ege_theme/release.sh" />
+        <option value="$PROJECT_DIR$/../apps/ege_perfil/urls.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_perfil/ege_perfil/urls.py" />
+        <option value="$PROJECT_DIR$/to_branch" />
+        <option value="$PROJECT_DIR$/../apps/ege_acesso/requirements-app.txt" />
+        <option value="$PROJECT_DIR$/../apps/ege_acesso/ege_acesso/models.py" />
+        <option value="$PROJECT_DIR$/db/wait" />
+        <option value="$PROJECT_DIR$/../apps/ege_perfil/settings.py" />
+        <option value="$PROJECT_DIR$/../conf/examples/ege.env" />
+        <option value="$PROJECT_DIR$/../conf/.ege.env" />
+        <option value="$PROJECT_DIR$/../conf/examples/baggins.env" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/dockers/baggins/requirements.txt" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/requirements-app.sample.txt" />
+        <option value="$PROJECT_DIR$/../conf/db/create_extra_db.sh" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/Dockerfile" />
+        <option value="$PROJECT_DIR$/../../django_brfied/release.sh" />
+        <option value="$PROJECT_DIR$/../../django_brfied/MANIFEST.in" />
+        <option value="$PROJECT_DIR$/../../django_brfied/requirements.txt" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/requirements-app.txt" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/migrations/0002_auto_20180111_1721.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/financeiro/models.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/tipo/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/financeiro/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/tipo/migrations/0002_auto_20180117_1936.py" />
+        <option value="$PROJECT_DIR$/../libs/django_brfied/django_brfied/models.py" />
+        <option value="$PROJECT_DIR$/../libs/django_brfied/django_brfied/apps.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/backends.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/urls.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/settings.py" />
+        <option value="$PROJECT_DIR$/../libs/django_brfied/django_brfied/mixin.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/models.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/admin.py" />
+        <option value="$PROJECT_DIR$/../conf/proxy/default.conf" />
+        <option value="$PROJECT_DIR$/../conf/examples/acesso_ldap.env" />
+        <option value="$PROJECT_DIR$/../conf/.acesso_ldap.env" />
+        <option value="$PROJECT_DIR$/../conf/tmp/dump.sql" />
+        <option value="$PROJECT_DIR$/../apps/ege_baggins/requirements-app.sample.txt" />
+        <option value="$PROJECT_DIR$/../libs/django_brfied/django_brfied/management/commands/importar_uf_municipio.py" />
+        <option value="$PROJECT_DIR$/../dockers/ege_base/requirements-build.txt" />
+        <option value="$PROJECT_DIR$/deploy" />
+        <option value="$PROJECT_DIR$/restart" />
+        <option value="$PROJECT_DIR$/../apps/ege_acesso/settings.py" />
+        <option value="$PROJECT_DIR$/../apps/ege_acesso/ege_acesso/urls.py" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/../conf/.aulas.env" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="38" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <sortByType ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aula01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aula02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../conf/tmp" />
+      <recent name="$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato" />
+      <recent name="$PROJECT_DIR$/../apps/ege_bolsitas_antigo" />
+      <recent name="$PROJECT_DIR$/../libs/ege_utils/ege_utils" />
+      <recent name="$PROJECT_DIR$/seletivo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../apps/ege_bolsitas_antigo" />
+      <recent name="$PROJECT_DIR$/../../django_brfied" />
+      <recent name="$PROJECT_DIR$/../conf/examples" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../apps/ege_acesso" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary" Folder1="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary" Folder2="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary" Folder3="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary" CustomDictionaries="4" CustomDictionary0="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary1="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_technical-terms.dic" CustomDictionary2="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil_without-accents.dic" CustomDictionary3="$PROJECT_DIR$/../../IntelliJ.Portuguese.Brazil.Dictionary/portuguese-brazil.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f115ec5b-1a9b-482b-b750-7dda64abb5af" name="Default Changelist" comment="" />
+      <created>1546436519656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546436519656</updated>
+      <workItem from="1546436524067" duration="23444000" />
+      <workItem from="1546871005192" duration="2554000" />
+      <workItem from="1546888563217" duration="28461000" />
+      <workItem from="1547039457685" duration="14000" />
+      <workItem from="1547039520565" duration="2415000" />
+      <workItem from="1547042255204" duration="28820000" />
+      <workItem from="1547486499505" duration="11000" />
+      <workItem from="1547486549267" duration="8180000" />
+      <workItem from="1547577952799" duration="6081000" />
+      <workItem from="1547813218353" duration="1512000" />
+      <workItem from="1548096764190" duration="524000" />
+      <workItem from="1548679613130" duration="51000" />
+      <workItem from="1549651049509" duration="28000" />
+      <workItem from="1549651133395" duration="7002000" />
+      <workItem from="1550011796980" duration="981000" />
+      <workItem from="1550060263628" duration="3379000" />
+      <workItem from="1550503478920" duration="15329000" />
+      <workItem from="1551100702126" duration="6443000" />
+      <workItem from="1551283238920" duration="276000" />
+      <workItem from="1551288713372" duration="22000" />
+      <workItem from="1551288775998" duration="13109000" />
+      <workItem from="1552068892433" duration="1933000" />
+    </task>
+    <task id="LOCAL-00030" summary="[UPG] ege_theme &amp; ege_auth_jwt [FIX] ege_theme &amp; ege_auth_jwt import">
+      <created>1547143752793</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1547143752793</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[SUB] ege_acesso &amp; ege_perfil">
+      <created>1547143786825</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1547143786825</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[SUB] ege_acesso &amp; ege_perfil">
+      <created>1547143830813</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1547143830813</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[FIX] need admin as a url router">
+      <created>1547143921282</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1547143921282</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[FIX] PyJWT missing on requirements">
+      <created>1547214676796</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1547214676796</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Only upping">
+      <created>1547214821723</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1547214821723</updated>
+    </task>
+    <task id="LOCAL-00036" summary="[ADD] script to install packages, usefull for migration process">
+      <created>1547215543605</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215543605</updated>
+    </task>
+    <task id="LOCAL-00037" summary="[FIX] install packages before run migrate [UPG] ege_base docker image 1.5.1">
+      <created>1547215644906</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215644906</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[FIX] pull ege_base docker project">
+      <created>1547215839602</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1547215839602</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[FIX] PyJWT missing on requeriments">
+      <created>1547216190439</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1547216190439</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[FIX] correct .*.env examples">
+      <created>1547217065196</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1547217065196</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[UPD] uses a manage.sh to upgrade dev packages">
+      <created>1547227657675</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1547227657675</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[ADD] acesso &amp; perfil for community access. [UPD] move all app scripts to a subdirectory. [SUB] move ege_theme &amp; ege_utils to subdirectory /libs">
+      <created>1547498957962</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1547498957962</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[DEL] ege_utils as files, now are submodule">
+      <created>1547499017761</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1547499017761</updated>
+    </task>
+    <task id="LOCAL-00044" summary="[UPD] renaming package from ege_auth_jwt to ege_utils">
+      <created>1547589188885</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1547589188885</updated>
+    </task>
+    <task id="LOCAL-00045" summary="[SUB] ege_utils">
+      <created>1547589728172</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1547589728172</updated>
+    </task>
+    <task id="LOCAL-00046" summary="[FIX] wrong rename to ege_dashboard reverted">
+      <created>1547590530037</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1547590530037</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[ADD] app dashboard [SUB] dashboard">
+      <created>1547590580398</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1547590580398</updated>
+    </task>
+    <task id="LOCAL-00048" summary="[SUB] theme">
+      <created>1547590609344</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1547590609344</updated>
+    </task>
+    <task id="LOCAL-00049" summary="[FIX] deploy dont do down [FIX] dbwait wainting forever">
+      <created>1547814504818</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1547814504818</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[FIX] sempre copiava o arquivo .env">
+      <created>1549657576097</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1549657576099</updated>
+    </task>
+    <task id="LOCAL-00051" summary="[ADD] reload do NGINX sem necessitar reiniciar tudo">
+      <created>1549658250616</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1549658250616</updated>
+    </task>
+    <task id="LOCAL-00052" summary="[BUG] Quando está atras de um proxy reverso que está atrás de outro proxy reverso, como resolver?">
+      <created>1550013280341</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1550013280342</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[FIX] agora não precisa mais subir as apps antes de subir o proxy.&#10;[BUG] só que, desta forma, vai dar muito mais erros 502, tem que fazer uma página para isso, assim como para o 404.">
+      <created>1550013447652</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1550013447652</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[BUG] Quando está atras de um proxy reverso que está atrás de outro proxy reverso, como resolver?">
+      <created>1550013467346</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1550013467346</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[ADD] Campos do perfil">
+      <created>1550668559796</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1550668559797</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[DEL] Perfil model, service and admin. [ADD] ege_theme/template/base.html">
+      <created>1550668705271</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1550668705271</updated>
+    </task>
+    <task id="LOCAL-00057" summary="[ADD] ege_theme/template/base.html">
+      <created>1550668828307</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1550668828307</updated>
+    </task>
+    <task id="LOCAL-00058" summary="[ADD] ege_theme/template/base.html">
+      <created>1550668895226</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1550668895226</updated>
+    </task>
+    <task id="LOCAL-00059" summary="[MERGE]">
+      <created>1550669460176</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1550669460176</updated>
+    </task>
+    <task id="LOCAL-00060" summary="[UPG] ege_base:1.5.3">
+      <created>1550699512568</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1550699512570</updated>
+    </task>
+    <task id="LOCAL-00061" summary="[UPD] Rename module name from ege_auth_jwt to ege_utils">
+      <created>1550703733576</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1550703733576</updated>
+    </task>
+    <task id="LOCAL-00062" summary="[ADD] MANIFEST.in">
+      <created>1550703798009</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1550703798009</updated>
+    </task>
+    <task id="LOCAL-00063" summary="[FIX] project name in release.sh">
+      <created>1550703910169</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1550703910169</updated>
+    </task>
+    <task id="LOCAL-00064" summary="[UPD] Rename module name from ege_auth_jwt to ege_utils">
+      <created>1550704448919</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1550704448920</updated>
+    </task>
+    <task id="LOCAL-00065" summary=".">
+      <created>1550705528938</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1550705528938</updated>
+    </task>
+    <task id="LOCAL-00066" summary=".">
+      <created>1550705558536</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1550705558537</updated>
+    </task>
+    <task id="LOCAL-00067" summary=".">
+      <created>1550705865885</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1550705865885</updated>
+    </task>
+    <task id="LOCAL-00068" summary=".">
+      <created>1550705881468</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1550705881468</updated>
+    </task>
+    <task id="LOCAL-00069" summary="[ADD] eduroam and member_of fields [ADD] active value as a setting">
+      <created>1551129372713</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1551129372715</updated>
+    </task>
+    <task id="LOCAL-00070" summary="[UPG] ege-theme==0.5.3">
+      <created>1551129687919</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1551129687919</updated>
+    </task>
+    <task id="LOCAL-00071" summary="[UPG] ifrn/ege_base:1.5.5">
+      <created>1551130411450</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1551130411450</updated>
+    </task>
+    <task id="LOCAL-00072" summary="[FIX] ./db/up dont need a specific dbname">
+      <created>1551130881420</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1551130881420</updated>
+    </task>
+    <task id="LOCAL-00073" summary="[FIX] ege behind a reverse proxy">
+      <created>1551132306822</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1551132306822</updated>
+    </task>
+    <task id="LOCAL-00074" summary="[UPG] python_brfied==0.5.0 to python_brfied&gt;=0.8.6">
+      <created>1551309289178</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1551309289179</updated>
+    </task>
+    <task id="LOCAL-00075" summary="[FIX] Choices classes UnidadeFederativaEnum, SexoEnum, RegiaoEnum [ADD] EnderecoFacultativoMixin allow a address null and blank [UPD] optimize imports">
+      <created>1551365868626</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1551365868626</updated>
+    </task>
+    <task id="LOCAL-00076" summary="[FIX] Choices classes UnidadeFederativaEnum, SexoEnum, RegiaoEnum [ADD] EnderecoFacultativoMixin allow a address null and blank [UPD] optimize imports">
+      <created>1551365916134</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1551365916134</updated>
+    </task>
+    <task id="LOCAL-00077" summary="[DEL] release.py replaced by release.sh">
+      <created>1551365978794</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1551365978794</updated>
+    </task>
+    <task id="LOCAL-00078" summary="[FIX] django_brfied evolution [SUB] ege_baggins, django_brfied, python_brfied, ege_base [ADD] createdb ege_baggins [ADD] examples/baggins.env [ADD] LDAP_ACTIVE_VALUE for LDAP [ADD] proxy for baggins [UPG] ege_base:1.5.6 [FIX] restart now wait db up [FIX] acesso login, logout and / will go to ege / []">
+      <created>1551368251125</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1551368251125</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="150569000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="38" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15921193" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893504" weight="0.32970297" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50106496" side_tool="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32871288" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32876712" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../apps/ege_base_image" />
+      <path value="$PROJECT_DIR$/../apps/ege_django_auth_jwt" />
+      <path value="$PROJECT_DIR$/../apps/ege_django_base" />
+      <path value="$PROJECT_DIR$/../apps/ege_django_theme" />
+      <path value="$PROJECT_DIR$/../apps/ege_processo_seletivo_administrativo" />
+      <path value="$PROJECT_DIR$/../apps/ege_processo_seletivo_publico" />
+      <path value="$PROJECT_DIR$/../apps/ege_auth_jwt" />
+      <path value="$PROJECT_DIR$/../apps/ege_theme" />
+    </ignored-roots>
+    <MESSAGE value="[ADD] app dashboard [SUB] dashboard" />
+    <MESSAGE value="[SUB] theme" />
+    <MESSAGE value="[FIX] deploy dont do down [FIX] dbwait wainting forever" />
+    <MESSAGE value="[FIX] sempre copiava o arquivo .env" />
+    <MESSAGE value="[ADD] reload do NGINX sem necessitar reiniciar tudo" />
+    <MESSAGE value="[FIX] agora não precisa mais subir as apps antes de subir o proxy.&#10;[BUG] só que, desta forma, vai dar muito mais erros 502, tem que fazer uma página para isso, assim como para o 404." />
+    <MESSAGE value="[BUG] Quando está atras de um proxy reverso que está atrás de outro proxy reverso, como resolver?" />
+    <MESSAGE value="[ADD] Campos do perfil" />
+    <MESSAGE value="[DEL] Perfil model, service and admin. [ADD] ege_theme/template/base.html" />
+    <MESSAGE value="[ADD] ege_theme/template/base.html" />
+    <MESSAGE value="[MERGE]" />
+    <MESSAGE value="[UPG] ege_base:1.5.3" />
+    <MESSAGE value="[ADD] MANIFEST.in" />
+    <MESSAGE value="[FIX] project name in release.sh" />
+    <MESSAGE value="[UPD] Rename module name from ege_auth_jwt to ege_utils" />
+    <MESSAGE value="." />
+    <MESSAGE value="[ADD] eduroam and member_of fields [ADD] active value as a setting" />
+    <MESSAGE value="[UPG] ege-theme==0.5.3" />
+    <MESSAGE value="[UPG] ifrn/ege_base:1.5.5" />
+    <MESSAGE value="[FIX] ./db/up dont need a specific dbname" />
+    <MESSAGE value="[FIX] ege behind a reverse proxy" />
+    <MESSAGE value="[UPG] python_brfied==0.5.0 to python_brfied&gt;=0.8.6" />
+    <MESSAGE value="[FIX] Choices classes UnidadeFederativaEnum, SexoEnum, RegiaoEnum [ADD] EnderecoFacultativoMixin allow a address null and blank [UPD] optimize imports" />
+    <MESSAGE value="[DEL] release.py replaced by release.sh" />
+    <MESSAGE value="[FIX] django_brfied evolution [SUB] ege_baggins, django_brfied, python_brfied, ege_base [ADD] createdb ege_baggins [ADD] examples/baggins.env [ADD] LDAP_ACTIVE_VALUE for LDAP [ADD] proxy for baggins [UPG] ege_base:1.5.6 [FIX] restart now wait db up [FIX] acesso login, logout and / will go to ege / []" />
+    <option name="LAST_COMMIT_MESSAGE" value="[FIX] django_brfied evolution [SUB] ege_baggins, django_brfied, python_brfied, ege_base [ADD] createdb ege_baggins [ADD] examples/baggins.env [ADD] LDAP_ACTIVE_VALUE for LDAP [ADD] proxy for baggins [UPG] ege_base:1.5.6 [FIX] restart now wait db up [FIX] acesso login, logout and / will go to ege / []" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-1518593251/1170049292/rest_framework/authentication.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/financeiro/models.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/tipo/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/tipo/migrations/0002_auto_20180117_1936.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/financeiro/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/django_brfied/migrations/0001_initial.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-1518593251/1170049292/python_brfied/choices.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="94" column="44" lean-forward="true" selection-start-line="94" selection-start-column="44" selection-end-line="94" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../libs/python_brfied/python_brfied/choices.py" />
+    <entry file="file://$PROJECT_DIR$/../conf/proxy/proxy_params" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_perfil/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/requirements-app.sample.txt" />
+    <entry file="file://$PROJECT_DIR$/../libs/ege_utils/ege_utils/backends.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/tests.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/views.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/backends.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/settings.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/remote_sources/-1518593251/1170049292/django/views/generic/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-356">
+          <caret line="156" column="16" selection-start-line="156" selection-start-column="4" selection-end-line="156" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/models.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/contrato/admin.py" />
+    <entry file="file://$PROJECT_DIR$/../conf/.acesso_ldap.env" />
+    <entry file="file://$PROJECT_DIR$/../conf/tmp/dump.sql" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_bolsitas_antigo/requirements-app.txt" />
+    <entry file="file://$PROJECT_DIR$/../conf/examples/c_acesso.env" />
+    <entry file="file://$PROJECT_DIR$/../conf/examples/baggins.env" />
+    <entry file="file://$PROJECT_DIR$/../conf/db/create_extra_db.sh" />
+    <entry file="file://$PROJECT_DIR$/../conf/examples/acesso_ldap.env" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_baggins/requirements-app.txt" />
+    <entry file="file://$PROJECT_DIR$/../libs/ege_theme/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/django_brfied/apps.py" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/django_brfied/mixin.py" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/django_brfied/management/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/django_brfied/models.py" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/setup.py" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/django_brfied/management/commands/importar_uf_municipio.py" />
+    <entry file="file://$PROJECT_DIR$/../dockers/ege_base/requirements-build.txt" />
+    <entry file="file://$PROJECT_DIR$/../libs/django_brfied/release.sh" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_baggins/requirements-app.sample.txt" />
+    <entry file="file://$PROJECT_DIR$/../conf/proxy/default.conf" />
+    <entry file="file://$PROJECT_DIR$/../conf/.acesso.env" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/ege_acesso/templates/ege_acesso/acesso_errado.html" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_baggins/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/ege_acesso/views.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/ege_acesso/urls.py" />
+    <entry file="file://$PROJECT_DIR$/../apps/ege_acesso/settings.py" />
+    <entry file="file://$PROJECT_DIR$/deploy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../conf/.aulas.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../apps/aula01/manage.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

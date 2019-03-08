@@ -1,0 +1,8 @@
+#!/bin/bash
+source color_logs
+
+./down
+#rm -f .ege.env
+sudo rm -rf ../volumes
+
+docker system prune -a

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="dockers" />
+    <orderEntry type="module" module-name="ege_django_base" />
+    <orderEntry type="module" module-name="ege_perfil" />
+    <orderEntry type="module" module-name="ege_django_theme" />
+    <orderEntry type="module" module-name="ege_processo_seletivo_administrativo" />
+    <orderEntry type="module" module-name="ege_processo_seletivo_publico" />
+    <orderEntry type="module" module-name="ege_perfil" />
+    <orderEntry type="module" module-name="ege_integrador_ms" />
+    <orderEntry type="module" module-name="ege_integrador_ui" />
+    <orderEntry type="module" module-name="ege_auth_jwt" />
+    <orderEntry type="module" module-name="ege_base_image" />
+    <orderEntry type="module" module-name="ege_theme" />
+    <orderEntry type="module" module-name="ege_selecao" />
+    <orderEntry type="module" module-name="ege_seletivo" />
+    <orderEntry type="module" module-name="conf" />
+    <orderEntry type="module" module-name="ege_base_image" />
+    <orderEntry type="module" module-name="ege_acesso" />
+    <orderEntry type="module" module-name="ege_theme" />
+    <orderEntry type="module" module-name="ege_utils" />
+    <orderEntry type="module" module-name="ege_theme" />
+    <orderEntry type="module" module-name="django_brfied" />
+    <orderEntry type="module" module-name="django_brfied" />
+    <orderEntry type="module" module-name="python_brfied" />
+    <orderEntry type="module" module-name="ege_baggins" />
+    <orderEntry type="module" module-name="aula01" />
+    <orderEntry type="module" module-name="aula02" />
+    <orderEntry type="module" module-name="conf" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

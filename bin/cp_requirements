@@ -1,0 +1,8 @@
+#!/bin/bash
+source color_logs
+
+
+echo_info "Copy requirements..."
+for f in ../apps/*; do
+  cp ../conf/requirements/* $f
+done

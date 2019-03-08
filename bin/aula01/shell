@@ -1,0 +1,5 @@
+#!/bin/bash
+source color_logs
+
+./$SERVICE_NAME/exec sh
+

@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  aula01:
+    image: 'ifrn/ege_base:1.5.6'
+    ports:
+      - '8000:8000'
+    env_file:
+      - ../conf/.aulas.env
+    volumes:
+      - '../apps/aula01:/apps/app'

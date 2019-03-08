@@ -1,0 +1,7 @@
+#!/bin/bash
+source color_logs
+
+./down $@
+./db/up
+./up -d $@
+

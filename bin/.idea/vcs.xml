@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/aula02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_acesso" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_baggins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_bolsitas_antigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_integrador_ms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_integrador_ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_perfil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_selecao" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../apps/ege_seletivo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dockers/ege_base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../libs/django_brfied" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../libs/ege_theme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../libs/ege_utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../libs/python_brfied" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../django_brfied" vcs="Git" />
+  </component>
+</project>
