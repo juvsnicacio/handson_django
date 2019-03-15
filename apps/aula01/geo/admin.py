@@ -1,5 +1,7 @@
 from django.contrib.admin import ModelAdmin, register
-from .models import UF, Municipio
+
+from apps.aula01.geo.models import Edital
+from .models import UF, Municipio, Edital
 
 
 @register(UF)
@@ -13,3 +15,7 @@ class MunicipioAdmin(ModelAdmin):
     list_editable = ('uf', 'nome')
     list_filter = ('uf__nome', )
     search_fields = ('nome', 'codigo')
+
+@register(Edital)
+class EditalAdmin(ModelAdmin):
+    list_display = ('numero','sigla','tipo','programa','link','descricao','ano','periodo')
